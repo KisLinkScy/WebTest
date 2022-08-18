@@ -1,5 +1,4 @@
 "# WebTest" 
-#� �W�e�b�T�e�s�t�
+#� �W�e�b�T�e�s�t��
 �
-�
-require "index.html"
+require "test.html"
