@@ -1,4 +1,4 @@
 git push origin main
 git add * или имя файла вместо *
 git commit -m "commit css"
-git push
+git push .
